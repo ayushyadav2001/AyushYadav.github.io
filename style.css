@@ -364,6 +364,7 @@ section .title::after{
 }
 .skills-content .right .c::before{
     width: 70%;
+}
 .skills-content .right .cpp::before{
     width: 90%;
 }
